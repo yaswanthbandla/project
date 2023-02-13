@@ -6,7 +6,7 @@ class City:
         self.covidbeds = covidbeds
         self.avlblcovbeds = avlblcovbeds
         self.ventilbeds = ventilbeds
-        self.avlblventilbeds = avlblventilbeds
+        self.avlblventilbeds = avlblventilbe
 
 
 class CovBedsAnalysis:
