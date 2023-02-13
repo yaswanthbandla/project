@@ -1,2 +1,2 @@
-# project
-covid_bed_analysis
+# python_project
+
