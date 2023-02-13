@@ -55,6 +55,7 @@ class CovBedsAnalysis:
         if (len(city) == 0):
             return 0
         return city
+    # i would like to add some more features
 
 
 n = int(input())
